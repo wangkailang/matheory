@@ -1,0 +1,2 @@
+# mathrology
+theory of math
